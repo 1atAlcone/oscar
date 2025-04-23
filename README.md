@@ -1,3 +1,5 @@
+{
+], 
 # Oscar, an open-source contributor agent architecture
 
 Oscar is a project aiming to improve open-source software development
